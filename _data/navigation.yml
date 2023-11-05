@@ -7,8 +7,4 @@ main:
   - title: "CV"
       url: /cv/
   - title: "Other"
-      url: /other/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+      url: /misc/
