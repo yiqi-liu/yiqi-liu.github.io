@@ -3,7 +3,7 @@ permalink: /research/
 toc: false
 ---
 
-I'm interested in econometrics. I work on identification problems for more credible causal inference, nonparametric estimation, and statistical inference for interesting policy questions.
+My research interests lie in econometrics. I work on identification problems for more credible causal inference, nonparametric estimation, and statistical inference for interesting policy questions.
 
 ## Working Papers
 - **Using Forests in Multivariate Regression Discontinuity Designs**, with [Alice Yuan Qi](https://econ.washington.edu/people/yuan-alice-qi) (2023)\
