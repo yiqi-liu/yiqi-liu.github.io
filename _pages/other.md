@@ -2,8 +2,8 @@
 permalink: /other/
 toc: false
 gallery:
-  - url: pixels.jpg
-    image_path: pixels.jpg
+  - url: /assets/images/pixels.jpg
+    image_path: /assets/images/pixels.jpg
     alt: ""Pixels" - acrylic on canvas"
     title: ""Pixels" - acrylic on canvas"
 ---
