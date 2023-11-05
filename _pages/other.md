@@ -4,12 +4,12 @@ toc: false
 gallery:
   - url: /assets/images/mirror2.jpg
     image_path: /assets/images/mirror2.jpg
-    alt: "Thourgh the Mirror #1, acrylic on glass"
-    title: "Thourgh the Mirror #1, acrylic on glass"
+    alt: "Through the Mirror #1, acrylic on glass"
+    title: "Through the Mirror #1, acrylic on glass"
   - url: /assets/images/mirror1.jpg
     image_path: /assets/images/mirror1.jpg
-    alt: "Thourgh the Mirror #2, acrylic on glass"
-    title: "Thourgh the Mirror #2, acrylic on glass"
+    alt: "Through the Mirror #2, acrylic on glass"
+    title: "Through the Mirror #2, acrylic on glass"
   - url: /assets/images/pixels.jpg
     image_path: /assets/images/pixels.jpg
     alt: "Pixels, acrylic on canvas"
