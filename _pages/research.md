@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-title: "Research"
 toc: false
 ---
 
