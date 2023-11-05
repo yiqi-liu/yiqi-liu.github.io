@@ -4,13 +4,36 @@ toc: false
 gallery:
   - url: /assets/images/pixels.jpg
     image_path: /assets/images/pixels.jpg
-    alt: "Pixels - acrylic on canvas"
-    title: "Pixels - acrylic on canvas"
+    alt: "Pixels, acrylic on canvas"
+    title: "Pixels, acrylic on canvas"
+  - url: /assets/images/mirror1.jpg
+    image_path: /assets/images/mirror1.jpg
+    alt: "Thourgh the Mirror #1, acrylic on glass"
+    title: "Thourgh the Mirror #1, acrylic on glass"
+  - url: /assets/images/mirror2.jpg
+    image_path: /assets/images/mirror2.jpg
+    alt: "Thourgh the Mirror #2, acrylic on glass"
+    title: "Thourgh the Mirror #2, acrylic on glass"
+  - url: /assets/images/mirror2.jpg
+    image_path: /assets/images/mirror2.jpg
+    alt: "Thourgh the Mirror #2, acrylic on glass"
+    title: "Thourgh the Mirror #2, acrylic on glass"
+  - url: /assets/images/untitled.jpg
+    image_path: /assets/images/untitled.jpg
+    alt: "Untitled, acrylic on BFK"
+    title: "Untitled, acrylic on BFK"
+  - url: /assets/images/self.jpg
+    image_path: /assets/images/self.jpg
+    alt: "Portrait, acrylic on BFK"
+    title: "Portrait, acrylic on BFK"
+  - url: /assets/images/sketch.jpg
+    image_path: /assets/images/sketch.jpg
+    alt: "Sketch, acrylic on BFK"
+    title: "Sketch, acrylic on BFK"  
 ---
 
 Aside from economics, I'm also into art. 
 I minored in studio art back in college, and was interested in music and visual arts from the Romantic era to the early 20th century.
-Sadly, I rarely painted after I started grad school due to time constraints, but I've been trying to pratice piano as much as I can:sweat_smile:!
-Below are some of my paintings.
+Sadly, I rarely painted after I started grad school due to time constraints, but here are some paintings I did during undergrad.
 
-{% include gallery id="gallery" layout="half" caption="xxx" %}
+{% include gallery id="gallery" caption="" %}
