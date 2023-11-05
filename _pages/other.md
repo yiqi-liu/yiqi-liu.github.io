@@ -32,3 +32,5 @@ Aside from economics, I'm also into art.
 I minored in studio art back in college, and was interested in music and visual arts from the Romantic era to the early 20th century. Here are some paintings I did during undergrad.
 
 {% include gallery id="gallery" layout="half" caption="" %}
+
+(Sadly, I barely have time to paint or practice piano after grad school started...😅
