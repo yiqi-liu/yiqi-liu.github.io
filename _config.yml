@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Yiqi Liu"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate in Economics @Cornell University"
+  bio              : "Ph.D. Candidate in Economics at Cornell University"
   location         : "Ithaca, NY"
-  email            : "yl3467@cornell.edu"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
