@@ -1,6 +1,5 @@
 ---
 permalink: /cv/
-title: "CV"
 toc: false
 ---
 
