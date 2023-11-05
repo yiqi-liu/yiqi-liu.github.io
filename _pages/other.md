@@ -4,8 +4,8 @@ toc: false
 gallery:
   - url: /assets/images/pixels.jpg
     image_path: /assets/images/pixels.jpg
-    alt: ""Pixels" - acrylic on canvas"
-    title: ""Pixels" - acrylic on canvas"
+    alt: "Pixels - acrylic on canvas"
+    title: "Pixels - acrylic on canvas"
 ---
 
 Aside from economics, I'm also into art. 
