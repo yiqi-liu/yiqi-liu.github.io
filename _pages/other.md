@@ -14,4 +14,4 @@ Sadly, I rarely painted after I started grad school due to time constraints, but
 
 Below are some of my paintings.
 
-{% include gallery caption="xxx" %}
+{% include gallery id="gallery" layout="half" caption="xxx" %}
