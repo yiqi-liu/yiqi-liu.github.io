@@ -11,4 +11,3 @@ toc: true
 ## Works in Progress
 - **Synthetic Parallel Trends**
 - **Inference for an Algorithmic Fairness-Accuracy Frontier**, with [Francesca Molinari](https://molinari.economics.cornell.edu/)
-- **A Measure of Model Fit**, with [Levon Barseghyan](https://barseghyan.economics.cornell.edu/) and [Francesca Molinari](https://molinari.economics.cornell.edu/)
