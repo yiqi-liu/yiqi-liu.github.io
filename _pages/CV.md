@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "CV"
-toc: true
+toc: false
 ---
 
 Click here: [[yiqi-cv](yiqi-cv.pdf)].
