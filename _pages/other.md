@@ -1,9 +1,9 @@
 ---
-permalink: /other/
+permalink: /misc/
 toc: false
 ---
 
-?????
+xxx
 
 <!---   Aside from economics, I'm also into art. 
 I minored in studio art back in college, and was interested in music and visual arts from the Romantic era to the early 20th century.
