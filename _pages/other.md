@@ -36,8 +36,8 @@ gallery:
     title: "Portrait, acrylic on BFK"
   - url: /assets/images/hand.jpg
     image_path: /assets/images/hand.jpg
-    alt: "Hand Study, acrylic on BFK"
-    title: "Hand Study, acrylic on BFK"
+    alt: "Hand Study, acrylic on glass"
+    title: "Hand Study, acrylic on glass"
 ---
 
 Aside from economics, I'm also into art. 
