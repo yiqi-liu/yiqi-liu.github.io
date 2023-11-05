@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-toc: true
+toc: false
 ---
 
 ## Working Papers
