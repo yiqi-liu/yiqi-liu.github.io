@@ -14,10 +14,6 @@ gallery:
     image_path: /assets/images/mirror2.jpg
     alt: "Thourgh the Mirror #2, acrylic on glass"
     title: "Thourgh the Mirror #2, acrylic on glass"
-  - url: /assets/images/mirror2.jpg
-    image_path: /assets/images/mirror2.jpg
-    alt: "Thourgh the Mirror #2, acrylic on glass"
-    title: "Thourgh the Mirror #2, acrylic on glass"
   - url: /assets/images/untitled.jpg
     image_path: /assets/images/untitled.jpg
     alt: "Untitled, acrylic on BFK"
@@ -33,7 +29,8 @@ gallery:
 ---
 
 Aside from economics, I'm also into art. 
-I minored in studio art back in college, and was interested in music and visual arts from the Romantic era to the early 20th century.
-Sadly, I rarely painted after I started grad school due to time constraints, but here are some paintings I did during undergrad.
+I minored in studio art back in college, and was interested in music and visual arts from the Romantic era to the early 20th century. Sadly, I barely had time to paint nor practice piano after I started grad school:sweat_smile: But here are some paintings I did during undergrad.
 
-{% include gallery id="gallery" caption="" %}
+{% include gallery id="gallery" class="full" caption="" %}
+
+
