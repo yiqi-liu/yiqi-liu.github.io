@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: /
+      url: /
   - title: "Research"
-    url: /research/
+      url: /research/
   - title: "CV"
-    url: /cv/
+      url: /cv/
   - title: "Other"
-  #   url: /year-archive/
+      url: /other/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
