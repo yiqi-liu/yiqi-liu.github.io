@@ -3,7 +3,7 @@ permalink: /research/
 toc: false
 ---
 
-I work on identification problems for more credible causal inference as well as nonparametric estimation and inference for interesting policy questions.
+I work on identification problems for more credible causal inference, nonparametric estimation, and statistical inference for interesting policy questions.
 
 ## Working Papers
 - **Using Forests in Multivariate Regression Discontinuity Designs**, with [Alice Yuan Qi](https://econ.washington.edu/people/yuan-alice-qi) (2023)\
