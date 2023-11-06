@@ -49,16 +49,16 @@ gallery2:
     title: "Maple Ave, Ithaca NY"
   - url: /assets/images/EastHonolulu.jpg
     image_path: /assets/images/EastHonolulu.jpg
-    alt: "East Oahu, Honolulu, HI"
-    title: "East Oahu, Honolulu, HI"
+    alt: "East Oahu, Honolulu HI"
+    title: "East Oahu, Honolulu HI"
   - url: /assets/images/KitePark.jpg
     image_path: /assets/images/KitePark.jpg
     alt: "Kite Park, Seattle WA"
     title: "Kite Park, Seattle WA"
   - url: /assets/images/waimanalo.jpg
     image_path: /assets/images/waimanalo.jpg
-    alt: "Waimānalo Beach, Honolulu, HI (credit to my dad)"
-    title: "Waimānalo Beach, Honolulu, HI (credit to my dad)"
+    alt: "Waimānalo Beach, Honolulu HI (credit to my dad)"
+    title: "Waimānalo Beach, Honolulu HI (credit to my dad)"
   - url: /assets/images/udistrict.jpg
     image_path: /assets/images/udistrict.jpg
     alt: "U District, Seattle WA"
