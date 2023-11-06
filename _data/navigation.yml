@@ -6,8 +6,8 @@ main:
     url: /research/
   - title: "CV"
     url: /cv/
-  - title: "Other"
-    url: /other/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
