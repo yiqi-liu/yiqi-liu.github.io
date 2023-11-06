@@ -1,5 +1,5 @@
 ---
-permalink: /other/
+permalink: /miscellaneous/
 toc: false
 gallery:
   - url: /assets/images/mirror2.jpg
@@ -38,6 +38,31 @@ gallery:
     image_path: /assets/images/hand.jpg
     alt: "Hand Study, acrylic on glass"
     title: "Hand Study, acrylic on glass"
+gallery2:
+  - url: /assets/images/TriphammerFalls.jpg
+    image_path: /assets/images/TriphammerFalls.jpg
+    alt: "Triphammer Falls, Ithaca NY"
+    title: "Triphammer Falls, Ithaca NY"
+  - url: /assets/images/maple.jpg
+    image_path: /assets/images/maple.jpg
+    alt: "Maple Ave, Ithaca NY"
+    title: "Maple Ave, Ithaca NY"
+  - url: /assets/images/EastHonolulu.jpg
+    image_path: /assets/images/EastHonolulu.jpg
+    alt: "East Oahu, Honolulu, HI"
+    title: "East Oahu, Honolulu, HI"
+  - url: /assets/images/KitePark.jpg
+    image_path: /assets/images/KitePark.jpg
+    alt: "Kite Park, Seattle WA"
+    title: "Kite Park, Seattle WA"
+  - url: /assets/images/waimanalo.jpg
+    image_path: /assets/images/waimanalo.jpg
+    alt: "Waimānalo Beach, Honolulu, HI (credit to my dad)"
+    title: "Waimānalo Beach, Honolulu, HI (credit to my dad)"
+  - url: /assets/images/udistrict.jpg
+    image_path: /assets/images/udistrict.jpg
+    alt: "U District, Seattle WA"
+    title: "U District, Seattle WA"
 ---
 
 Aside from economics, I'm also into art. 
@@ -46,3 +71,5 @@ I minored in studio art back in college, and was interested in music and visual 
 {% include gallery id="gallery" caption="" %}
 
 (Sadly, I barely have time to paint or practice piano after grad school started...😅
+
+### Some beautiful places
