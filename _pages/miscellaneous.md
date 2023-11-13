@@ -53,8 +53,8 @@ gallery2:
     title: "East Oahu, Honolulu HI"
   - url: /assets/images/KitePark.jpg
     image_path: /assets/images/KitePark.jpg
-    alt: "Kite Park, Seattle WA"
-    title: "Kite Park, Seattle WA"
+    alt: "Kite Park, Bonney Lake WA"
+    title: "Kite Park, Bonney Lake WA"
   - url: /assets/images/waimanalo.jpg
     image_path: /assets/images/waimanalo.jpg
     alt: "Waimānalo Beach, Honolulu HI (credit to my dad)"
