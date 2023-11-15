@@ -115,7 +115,7 @@ author:
       # url: "yl3467@cornell.edu"
     - label: "Department page"
       icon: "fas fa-fw fa-link"
-       url: "https://economics.cornell.edu/yiqi-liu"
+      url: "https://economics.cornell.edu/yiqi-liu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
