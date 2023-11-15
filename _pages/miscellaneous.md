@@ -47,10 +47,10 @@ gallery2:
     image_path: /assets/images/maple.jpg
     alt: "Maple Ave, Ithaca NY"
     title: "Maple Ave, Ithaca NY"
-  - url: /assets/images/EastHonolulu.jpg
-    image_path: /assets/images/EastHonolulu.jpg
-    alt: "East Oahu, Honolulu HI"
-    title: "East Oahu, Honolulu HI"
+  - url: /assets/images/ebeyslanding.jpg
+    image_path: /assets/images/ebeyslanding.jpg
+    alt: "Ebey's Landing, Whidbey Island WA"
+    title: "Ebey's Landing, Whidbey Island WA"
   - url: /assets/images/KitePark.jpg
     image_path: /assets/images/KitePark.jpg
     alt: "Kite Park, Bonney Lake WA"
