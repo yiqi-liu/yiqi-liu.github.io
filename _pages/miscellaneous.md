@@ -70,8 +70,6 @@ I minored in studio art back in college, and was interested in music and visual 
 
 {% include gallery id="gallery" caption="" %}
 
-(Sadly, I haven't painted nor practiced piano much after grad school started...😅)
-
 ### Some beautiful places
 
 {% include gallery id="gallery2" caption="" %}
