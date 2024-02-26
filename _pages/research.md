@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 toc: false
+classes: wide
 ---
 
 My research interests lie in econometrics. I work on identification problems for more credible causal inference, as well as nonparametric estimation and statistical inference for interesting policy questions.
