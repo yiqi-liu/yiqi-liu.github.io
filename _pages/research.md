@@ -8,7 +8,7 @@ My research interests are in theoretical and applied econometrics. I work on ide
 
 ## Working Papers
 - **Inference for an Algorithmic Fairness-Accuracy Frontier** (2024), with [Francesca Molinari](https://molinari.economics.cornell.edu/)\
-  Extended abstract in *Proceedings of the 25th ACM Conference on Economics and Computation* \
+  <span style="font-family:Papyrus; font-size:4em;">Extended abstract in *Proceedings of the 25th ACM Conference on Economics and Computation*</span> \
   [[`arXiv`](https://arxiv.org/abs/2402.08879)] | [`code`]
 - **Using Forests in Multivariate Regression Discontinuity Designs** (2024), with [Alice Yuan Qi](https://econ.washington.edu/people/yuan-alice-qi) \
   [[`arXiv`](https://arxiv.org/abs/2303.11721)] | [[`code`](https://github.com/yqi3/Replication-GRF-RD/tree/main)]
