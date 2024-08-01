@@ -59,10 +59,10 @@ gallery2:
     image_path: /assets/images/waimanalo.jpg
     alt: "Waimānalo Beach, Honolulu HI (credit to my dad)"
     title: "Waimānalo Beach, Honolulu HI (credit to my dad)"
-  - url: /assets/images/udistrict.jpg
-    image_path: /assets/images/udistrict.jpg
-    alt: "U District, Seattle WA"
-    title: "U District, Seattle WA"
+  - url: /assets/images/icecaves.jpg
+    image_path: /assets/images/icecaves.jpg
+    alt: "Big Four Ice Caves, Granite Falls WA"
+    title: "Big Four Ice Caves, Granite Falls WA"
 ---
 
 Aside from economics, I'm also into art. 
