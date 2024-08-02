@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "CV"
-    url: /cv/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Miscellaneous"
     url: /miscellaneous/
   # - title: "Sample Collections"
