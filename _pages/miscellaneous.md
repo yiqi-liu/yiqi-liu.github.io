@@ -62,7 +62,7 @@ gallery2:
   - url: /assets/images/siguniang.jpg
     image_path: /assets/images/siguniang.jpg
     alt: "Mount Siguniang, Sichuan China"
-    title: Mount Siguniang, Sichuan China"
+    title: "Mount Siguniang, Sichuan China"
   - url: /assets/images/kangding.jpg
     image_path: /assets/images/kangding.jpg
     alt: "Garzê, Sichuan China"
