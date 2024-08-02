@@ -22,10 +22,10 @@ gallery:
     image_path: /assets/images/mondrian.jpg
     alt: "Mondrian Subverting JL David, or the Other Way Around, gouache and graphite on paper"
     title: "Mondrian Subverting JL David, or the Other Way Around, gouache and graphite on paper"
-  - url: /assets/images/sketch.jpg
-    image_path: /assets/images/sketch.jpg
-    alt: "Sketch, acrylic on BFK"
-    title: "Sketch, acrylic on BFK"
+  - url: /assets/images/binary.jpg
+    image_path: /assets/images/binary.jpg
+    alt: "Binary, acrylic on BFK"
+    title: "Binary, acrylic on BFK"
   - url: /assets/images/untitled.jpg
     image_path: /assets/images/untitled.jpg
     alt: "Sea of Clouds (Homage to C.D. Friedrich), acrylic on BFK"
