@@ -51,18 +51,30 @@ gallery2:
     image_path: /assets/images/ebeyslanding.jpg
     alt: "Ebey's Landing, Whidbey Island WA"
     title: "Ebey's Landing, Whidbey Island WA"
-  - url: /assets/images/KitePark.jpg
-    image_path: /assets/images/KitePark.jpg
-    alt: "Kite Park, Bonney Lake WA"
-    title: "Kite Park, Bonney Lake WA"
-  - url: /assets/images/waimanalo.jpg
-    image_path: /assets/images/waimanalo.jpg
-    alt: "Waimānalo Beach, Honolulu HI (credit to my dad)"
-    title: "Waimānalo Beach, Honolulu HI (credit to my dad)"
   - url: /assets/images/icecaves.jpg
     image_path: /assets/images/icecaves.jpg
     alt: "Big Four Ice Caves, Granite Falls WA"
     title: "Big Four Ice Caves, Granite Falls WA"
+  - url: /assets/images/waimanalo.jpg
+    image_path: /assets/images/waimanalo.jpg
+    alt: "Waimānalo Beach, Honolulu HI (credit to my dad)"
+    title: "Waimānalo Beach, Honolulu HI (credit to my dad)"
+  - url: /assets/images/siguniang.jpg
+    image_path: /assets/images/siguniang.jpg
+    alt: "Mount Siguniang, Sichuan China"
+    title: Mount Siguniang, Sichuan China"
+  - url: /assets/images/kangding.jpg
+    image_path: /assets/images/kangding.jpg
+    alt: "Garzê, Sichuan China"
+    title: "Garzê, Sichuan China"
+  - url: /assets/images/KitePark.jpg
+    image_path: /assets/images/KitePark.jpg
+    alt: "Kite Park, Bonney Lake WA"
+    title: "Kite Park, Bonney Lake WA"
+  - url: /assets/images/wmp.jpg
+    image_path: /assets/images/wmp.jpg
+    alt: "Warren G. Magnuson Park, Seattle WA"
+    title: "Warren G. Magnuson Park, Seattle WA"
 ---
 
 Aside from economics, I'm also into art. 
