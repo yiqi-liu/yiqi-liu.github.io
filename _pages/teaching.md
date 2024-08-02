@@ -1,6 +1,7 @@
 ---
 permalink: /teaching/
 toc: false
+classes: wide
 ---
 
 - ECON 6170, Mathematical Economics (Graduate), Fall 2021 (TA for Suraj Malladi)\
