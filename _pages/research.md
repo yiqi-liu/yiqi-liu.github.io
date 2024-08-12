@@ -2,6 +2,7 @@
 permalink: /research/
 toc: false
 classes: wide
+title-heading: false
 ---
 
 ## Working Papers
