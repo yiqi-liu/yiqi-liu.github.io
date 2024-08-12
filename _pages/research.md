@@ -4,8 +4,6 @@ toc: false
 classes: wide
 ---
 
-My research interests are in theoretical and applied econometrics. I work on identification problems for more credible causal inference, as well as nonparametric estimation and statistical inference for interesting policy questions.
-
 ## Working Papers
 - **Inference for an Algorithmic Fairness-Accuracy Frontier** (2024), with [Francesca Molinari](https://molinari.economics.cornell.edu/)\
   <span style="font-size:0.8em;">Extended abstract in *Proceedings of the 25th ACM Conference on Economics and Computation*</span> \
