@@ -36,8 +36,8 @@ gallery:
     title: "Hand Study, acrylic on Moleskine"
   - url: /assets/images/sever.jpg
     image_path: /assets/images/sever.jpg
-    alt: "Sever, charcoal on BFK (details)"
-    title: "Sever, charcoal on BFK (details)"
+    alt: "Sever, charcoal on BFK (detail)"
+    title: "Sever, charcoal on BFK (detail)"
   - url: /assets/images/untitled.jpg
     image_path: /assets/images/untitled.jpg
     alt: "Sea of Clouds (Homage to C.D. Friedrich), acrylic on BFK"
