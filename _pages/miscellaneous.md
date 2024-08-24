@@ -90,7 +90,7 @@ gallery2:
 ---
 
 Aside from economics, I'm also into art. 
-I minored in studio art back in college, and was interested in music and visual arts from the Romantic era to the early 20th century. Here are some paintings I did during undergrad.
+I minored in studio art back in college, and was interested in music and visual arts from the Romantic era to the early 20th century. Here are some paintings I did, mostly during undergrad.
 
 {% include gallery id="gallery" caption="" %}
 
