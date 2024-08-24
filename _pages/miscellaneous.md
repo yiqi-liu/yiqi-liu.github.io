@@ -26,7 +26,7 @@ gallery:
     image_path: /assets/images/churchcollage.jpg
     alt: "A Painting of Collage Made from Paintings of F. D. Church, acrylic on BFK"
     title: "A Painting of Collage Made from Paintings of F. D. Church, acrylic on BFK"
-  - url: /assets/images/binary.jpg
+  - url: /assets/images/duet.jpg
     image_path: /assets/images/duet.jpg
     alt: "Duet, acrylic on BFK"
     title: "Duet, acrylic on BFK"
