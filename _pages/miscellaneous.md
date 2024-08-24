@@ -22,10 +22,22 @@ gallery:
     image_path: /assets/images/mondrian.jpg
     alt: "Mondrian Subverting JL David, or the Other Way Around, gouache and graphite on paper"
     title: "Mondrian Subverting JL David, or the Other Way Around, gouache and graphite on paper"
+  - url: /assets/images/churchcollage.jpg
+    image_path: /assets/images/churchcollage.jpg
+    alt: "A Painting of Collage Made from Paintings of F. D. Church, acrylic on BFK"
+    title: "A Painting of Collage Made from Paintings of F. D. Church, acrylic on BFK"
   - url: /assets/images/binary.jpg
-    image_path: /assets/images/binary.jpg
-    alt: "Binary, acrylic on BFK"
-    title: "Binary, acrylic on BFK"
+    image_path: /assets/images/duet.jpg
+    alt: "Duet, acrylic on BFK"
+    title: "Duet, acrylic on BFK"
+  - url: /assets/images/handstudy.jpg
+    image_path: /assets/images/handstudy.jpg
+    alt: "Hand Study, acrylic on Moleskine"
+    title: "Hand Study, acrylic on Moleskine"
+  - url: /assets/images/sever.jpg
+    image_path: /assets/images/sever.jpg
+    alt: "Sever, charcoal on BFK"
+    title: "Sever, charcoal on BFK"
   - url: /assets/images/untitled.jpg
     image_path: /assets/images/untitled.jpg
     alt: "Sea of Clouds (Homage to C.D. Friedrich), acrylic on BFK"
