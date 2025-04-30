@@ -6,8 +6,8 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  - title: "Misc."
+    url: /misc/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
