@@ -22,20 +22,20 @@ gallery:
     image_path: /assets/images/mondrian.jpg
     alt: "Mondrian Subverting JL David, or the Other Way Around, gouache and graphite on paper"
     title: "Mondrian Subverting JL David, or the Other Way Around, gouache and graphite on paper"
-  - url: /assets/images/untitled.jpg
-    image_path: /assets/images/untitled.jpg
+  - url: /assets/images/untitled-clouds.jpg
+    image_path: /assets/images/untitled-clouds.jpg
     alt: "Top: Untitled Portrait; bottom: Sea of Clouds (Homage to C.D. Friedrich); acrylic on BFK"
     title: "Top: Untitled Portrait; bottom: Sea of Clouds (Homage to C.D. Friedrich); acrylic on BFK"
-  - url: /assets/images/duet.jpg
-    image_path: /assets/images/duet.jpg
+  - url: /assets/images/duet1.jpg
+    image_path: /assets/images/duet1.jpg
     alt: "Duet, acrylic on BFK"
     title: "Duet, acrylic on BFK"
-  - url: /assets/images/handstudy.jpg
-    image_path: /assets/images/handstudy.jpg
+  - url: /assets/images/handstudy1.jpg
+    image_path: /assets/images/handstudy1.jpg
     alt: "Hand Study, acrylic on Moleskine"
     title: "Hand Study, acrylic on Moleskine"
-  - url: /assets/images/sever.jpg
-    image_path: /assets/images/sever.jpg
+  - url: /assets/images/sever1.jpg
+    image_path: /assets/images/sever1.jpg
     alt: "Sever, charcoal on BFK (detail)"
     title: "Sever, charcoal on BFK (detail)"
 gallery2:
@@ -63,16 +63,16 @@ gallery2:
     image_path: /assets/images/siguniang.jpg
     alt: "Mount Siguniang, Sichuan China"
     title: "Mount Siguniang, Sichuan China"
-  - url: /assets/images/cypresslookout.jpg
-    image_path: /assets/images/cypresslookout.jpg
+  - url: /assets/images/cypress.jpg
+    image_path: /assets/images/cypress.jpg
     alt: "Cypress Lookout, Vancouver BC"
     title: "Cypress Lookout, Vancouver BC"
   - url: /assets/images/KitePark.jpg
     image_path: /assets/images/KitePark.jpg
     alt: "Kite Park, Bonney Lake WA"
     title: "Kite Park, Bonney Lake WA"
-  - url: /assets/images/lighthousepark.jpg
-    image_path: /assets/images/lighthousepark.jpg
+  - url: /assets/images/lighthouse.jpg
+    image_path: /assets/images/lighthouse.jpg
     alt: "Lighthouse Park, West Vancouver BC"
     title: "Lighthouse Park, West Vancouver BC"
 ---
