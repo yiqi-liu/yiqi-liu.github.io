@@ -1,6 +1,7 @@
 ---
 permalink: /music/
 toc: false
+classes: wide
 ---
 
 🎹 for fun:
