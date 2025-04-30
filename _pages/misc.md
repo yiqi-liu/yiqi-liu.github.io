@@ -22,20 +22,20 @@ gallery:
     image_path: /assets/images/mondrian.jpg
     alt: "Mondrian Subverting JL David, or the Other Way Around, gouache and graphite on paper"
     title: "Mondrian Subverting JL David, or the Other Way Around, gouache and graphite on paper"
-  - url: /assets/images/untitled-clouds.jpg
-    image_path: /assets/images/untitled-clouds.jpg
+  - url: /assets/images/portrcloud.jpg
+    image_path: /assets/images/portrcloud.jpg
     alt: "Top: Untitled Portrait; bottom: Sea of Clouds (Homage to C.D. Friedrich); acrylic on BFK"
     title: "Top: Untitled Portrait; bottom: Sea of Clouds (Homage to C.D. Friedrich); acrylic on BFK"
-  - url: /assets/images/duet1.jpg
-    image_path: /assets/images/duet1.jpg
+  - url: /assets/images/duet0.jpg
+    image_path: /assets/images/duet0.jpg
     alt: "Duet, acrylic on BFK"
     title: "Duet, acrylic on BFK"
-  - url: /assets/images/handstudy1.jpg
-    image_path: /assets/images/handstudy1.jpg
+  - url: /assets/images/handstudy0.jpg
+    image_path: /assets/images/handstudy0.jpg
     alt: "Hand Study, acrylic on Moleskine"
     title: "Hand Study, acrylic on Moleskine"
-  - url: /assets/images/sever1.jpg
-    image_path: /assets/images/sever1.jpg
+  - url: /assets/images/sever0.jpg
+    image_path: /assets/images/sever0.jpg
     alt: "Sever, charcoal on BFK (detail)"
     title: "Sever, charcoal on BFK (detail)"
 gallery2:
