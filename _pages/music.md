@@ -6,14 +6,14 @@ classes: wide
 
 🎹 for fun:
 
-###### An F$`\sharp`$ minor theme from Rachmaninoff Piano Concerto No. 1, I. Vivace
+###### An F$\sharp$ minor theme from Rachmaninoff Piano Concerto No. 1, I. Vivace
 I like multiple melodic lines that weave together, as if in a dialogue. In this theme, the orchestra accompaniment first echos the melody of the piano, and then the orchestra takes the lead, with the piano answering the orchestra.
 
 <video width="270" height="480" controls="controls">
   <source src="/assets/vid/rach1mvt1.mp4" type="video/mp4">
 </video>
 
-###### A B$`\flat`$ major theme from Rachmaninoff Piano Concerto No. 2, III. Allegro scherzando
+###### A B$\flat$ major theme from Rachmaninoff Piano Concerto No. 2, III. Allegro scherzando
 The same melody is first played by the orchestra, then repeated by the piano.
 
 <video width="270" height="480" controls="controls">
