@@ -1,5 +1,5 @@
 ---
-permalink: /miscellaneous/
+permalink: /misc/
 toc: false
 gallery:
   - url: /assets/images/mirror1.jpg
@@ -63,18 +63,18 @@ gallery2:
     image_path: /assets/images/siguniang.jpg
     alt: "Mount Siguniang, Sichuan China"
     title: "Mount Siguniang, Sichuan China"
-  - url: /assets/images/kangding.jpg
-    image_path: /assets/images/kangding.jpg
-    alt: "Garzê, Sichuan China"
-    title: "Garzê, Sichuan China"
+  - url: /assets/images/cypresslookout.jpg
+    image_path: /assets/images/cypresslookout.jpg
+    alt: "Cypress Lookout, Vancouver BC"
+    title: "Cypress Lookout, Vancouver BC"
   - url: /assets/images/KitePark.jpg
     image_path: /assets/images/KitePark.jpg
     alt: "Kite Park, Bonney Lake WA"
     title: "Kite Park, Bonney Lake WA"
-  - url: /assets/images/wmp.jpg
-    image_path: /assets/images/wmp.jpg
-    alt: "Warren G. Magnuson Park, Seattle WA"
-    title: "Warren G. Magnuson Park, Seattle WA"
+  - url: /assets/images/lighthousepark.jpg
+    image_path: /assets/images/lighthousepark.jpg
+    alt: "Lighthouse Park, West Vancouver BC"
+    title: "Lighthouse Park, West Vancouver BC"
 ---
 
 Aside from economics, I'm also into art. 
