@@ -8,8 +8,8 @@ My research interests are in theoretical and applied econometrics. I work on ide
 
 ## Working Papers
 - **Inference for an Algorithmic Fairness-Accuracy Frontier** (2025), with [Francesca Molinari](https://molinari.economics.cornell.edu/)\
-  <span style="font-size:0.8em;">Extended abstract in *Proceedings of the 25th ACM Conference on Economics and Computation*</span> \
-  [[`arXiv`](https://arxiv.org/abs/2402.08879)] | [[`code`](https://github.com/yiqi-liu/TestAlgFair)]
+  <span style="font-size:0.8em;">Extended abstract in *Proceedings of the 25th ACM Conference on Economics and Computation (EC'24)*</span> \
+  [[`arXiv`](https://arxiv.org/abs/2402.08879)] | [[`code`](https://github.com/yiqi-liu/TestAlgFair)] | [[`EC'24`](https://dl.acm.org/doi/10.1145/3670865.3673522)]
 - **Using Forests in Multivariate Regression Discontinuity Designs** (2025), with [Alice Yuan Qi](https://econ.washington.edu/people/yuan-alice-qi) \
   [[`arXiv`](https://arxiv.org/abs/2303.11721)] | [[`code`](https://github.com/yqi3/RDForest)]
 
@@ -35,7 +35,8 @@ I characterize the identified set for the treatment effect of the treated unit, 
 .abstract {
   font-size: 0.8em;
   line-height: 1.2 !important;
-  margin-left: 2em; 
+  text-align: justify;
+  margin-left: 2.1em; 
   margin-top: -0.8em;
 }
 
