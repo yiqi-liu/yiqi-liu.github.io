@@ -36,7 +36,7 @@ I characterize the identified set for the treatment effect of the treated unit, 
   font-size: 0.8em;
   line-height: 1.2 !important;
   text-align: justify;
-  margin-left: 2.1em; 
+  margin-left: 2.2em; 
   margin-top: -0.8em;
 }
 
