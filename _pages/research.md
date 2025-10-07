@@ -35,8 +35,8 @@ I characterize the identified set for the treatment effect of the treated unit, 
 .abstract {
   font-size: 0.8em;
   line-height: 1.2 !important;
-  margin-left: 1.4em; 
-  margin-top: -0.5em;
+  margin-left: 2em; 
+  margin-top: -0.8em;
 }
 
 .abstract mjx-container {
