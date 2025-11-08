@@ -36,7 +36,7 @@ I construct a valid confidence set for the identified set of the treatment effec
 }
 
 .paper-links {
-  margin-left: 2.3em; 
+  margin-left: 5em; 
   font-size: 0.85em;
   line-height: 1.3;
   margin-top: -0.6em;
