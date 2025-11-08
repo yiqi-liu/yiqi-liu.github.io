@@ -14,7 +14,7 @@ I construct a valid confidence set for the identified set of the treatment effec
 </div>
 
 <p class="paper-links" markdown="1">
-[`arXiv`](https://drive.google.com/file/d/1MD1JSP1aNwMH1MtrSSLZH9HQFjY-bNlD/view?usp=sharing) | [`code`]
+[[`arXiv`](https://drive.google.com/file/d/1MD1JSP1aNwMH1MtrSSLZH9HQFjY-bNlD/view?usp=sharing)] | [`code`]
 </p>
 
 <script>
@@ -36,7 +36,7 @@ I construct a valid confidence set for the identified set of the treatment effec
 }
 
 .paper-links {
-  margin-left: 0em; 
+  margin-left: 2.3em; 
   font-size: 0.85em;
   line-height: 1.3;
   margin-top: -0.6em;
