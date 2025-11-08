@@ -34,7 +34,8 @@ I construct a valid confidence set for the identified set of the treatment effec
 .abstract mjx-container {
   line-height: inherit !important;
 }
-</style>
+</style>\
+
 [[`arXiv`](https://drive.google.com/file/d/1MD1JSP1aNwMH1MtrSSLZH9HQFjY-bNlD/view?usp=sharing)] | [`code`]
 
 - **Inference for an Algorithmic Fairness-Accuracy Frontier** (2025), with [Francesca Molinari](https://molinari.economics.cornell.edu/)\
