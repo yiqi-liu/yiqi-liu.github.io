@@ -13,7 +13,7 @@ My research interests are in theoretical and applied econometrics. I work on ide
 I construct a valid confidence set for the identified set of the treatment effect, which admits a linear programming representation with estimated coefficients and nuisance parameters that are profiled out. In simulations where the assumptions underlying DID or SC-based methods are violated, the proposed confidence set remains robust and attains nominal coverage, while existing methods suffer severe undercoverage.
 </div>
 
-<p class="paper-links">
+<p class="paper-links" markdown="1">
 [`arXiv`](https://drive.google.com/file/d/1MD1JSP1aNwMH1MtrSSLZH9HQFjY-bNlD/view?usp=sharing) | [`code`]
 </p>
 
