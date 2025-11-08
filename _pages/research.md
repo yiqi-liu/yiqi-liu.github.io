@@ -13,6 +13,10 @@ My research interests are in theoretical and applied econometrics. I work on ide
 I construct a valid confidence set for the identified set of the treatment effect, which admits a linear programming representation with estimated coefficients and nuisance parameters that are profiled out. In simulations where the assumptions underlying DID or SC-based methods are violated, the proposed confidence set remains robust and attains nominal coverage, while existing methods suffer severe undercoverage.
 </div>
 
+<p class="paper-links">
+[`arXiv`](https://drive.google.com/file/d/1MD1JSP1aNwMH1MtrSSLZH9HQFjY-bNlD/view?usp=sharing) | [`code`]
+</p>
+
 <script>
   MathJax = {
     tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
@@ -31,12 +35,17 @@ I construct a valid confidence set for the identified set of the treatment effec
   margin-top: -0.8em;
 }
 
+.paper-links {
+  margin-left: 0em; 
+  font-size: 0.85em;
+  line-height: 1.3;
+  margin-top: -0.6em;
+}
+
 .abstract mjx-container {
   line-height: inherit !important;
 }
 </style>
-
-<p markdown="1">[[`arXiv`](https://drive.google.com/file/d/1MD1JSP1aNwMH1MtrSSLZH9HQFjY-bNlD/view?usp=sharing)] | [`code`]</p>
 
 - **Inference for an Algorithmic Fairness-Accuracy Frontier** (2025), with [Francesca Molinari](https://molinari.economics.cornell.edu/)\
   <span style="font-size:0.8em;">Extended abstract in *Proceedings of the 25th ACM Conference on Economics and Computation (EC'24)*</span> \
