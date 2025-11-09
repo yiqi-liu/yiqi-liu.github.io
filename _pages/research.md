@@ -36,6 +36,8 @@ I am interested in understanding how assumptions shape empirical conclusions and
 
 .paper-links { 
   font-size: 0.85em;
+  margin-top: -0.8em;
+  margin-bottom: -0.8em;
 }
 
 .abstract mjx-container {
