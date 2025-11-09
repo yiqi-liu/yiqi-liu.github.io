@@ -4,7 +4,7 @@ toc: false
 classes: wide
 ---
 
-My research interests are in theoretical and applied econometrics. I work on identification problems for more credible causal inference, as well as nonparametric estimation and statistical inference for interesting policy questions.
+I am interested in understanding how assumptions shape empirical conclusions and developing statistical methods to inform better policy design.
 
 ## Working Papers
 - **Synthetic Parallel Trends** (Job Market Paper)<br>
