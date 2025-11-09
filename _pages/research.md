@@ -31,6 +31,7 @@ I am interested in understanding how assumptions shape empirical conclusions and
   font-size: 0.8em;
   line-height: 1.2 !important;
   margin-top: 0em;
+  margin-bottom: -0.5em;
 }
 
 .paper-links { 
