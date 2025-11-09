@@ -30,7 +30,7 @@ I am interested in understanding how assumptions shape empirical conclusions and
 .abstract {
   font-size: 0.8em;
   line-height: 1.2 !important;
-  margin-top: -0.8em;
+  margin-top: 0em;
 }
 
 .paper-links { 
