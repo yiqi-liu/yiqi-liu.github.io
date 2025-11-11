@@ -13,7 +13,7 @@ I am interested in understanding how assumptions shape empirical conclusions and
     </div>
     
     <p class="paper-links" markdown="1">
-       [[`latest version`](https://drive.google.com/file/d/1MD1JSP1aNwMH1MtrSSLZH9HQFjY-bNlD/view?usp=sharing)] | [[`arXiv`](https://arxiv.org/abs/2511.05870)] | [`code`]
+       [[`latest draft`](https://drive.google.com/file/d/1MD1JSP1aNwMH1MtrSSLZH9HQFjY-bNlD/view?usp=sharing)] | [[`arXiv`](https://arxiv.org/abs/2511.05870)] | [`code`]
     </p>
 
 <script>
