@@ -46,7 +46,7 @@ I am interested in understanding how assumptions shape empirical conclusions and
 </style>
 
 - **Inference for an Algorithmic Fairness-Accuracy Frontier** (2025), with [Francesca Molinari](https://molinari.economics.cornell.edu/)\
-  <span style="font-size:0.8em;">Revise and Resubmit at *American Economic Reveiw*</span> \
+  <span style="font-size:0.8em;">Revise and Resubmit at *American Economic Review*</span> \
   <span style="font-size:0.8em;">Extended abstract in *Proceedings of the 25th ACM Conference on Economics and Computation (EC'24)*</span> \
   [[`arXiv`](https://arxiv.org/abs/2402.08879)] | [[`code`](https://github.com/yiqi-liu/TestAlgFair)] | [[`EC'24`](https://dl.acm.org/doi/10.1145/3670865.3673522)]
 - **Using Forests in Multivariate Regression Discontinuity Designs** (2025), with [Alice Yuan Qi](https://econ.washington.edu/people/yuan-alice-qi) \
