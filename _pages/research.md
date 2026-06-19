@@ -7,6 +7,9 @@ classes: wide
 I am interested in understanding how assumptions shape empirical conclusions and developing statistical methods to inform better policy design.
 
 ## Working Papers
+- **Identification and Inference for Algorithmic Frontiers with Selective Labels**, with [Francesca Molinari](https://molinari.economics.cornell.edu/) and [Amilcar Velez](https://www.amilcarvelez.com/) \
+  [[`arXiv`](https://arxiv.org/abs/2606.14977)] | [`code`]
+  
 - **Synthetic Parallel Trends** (Job Market Paper)<br>
     <div class="abstract" markdown="1">
 *Abstract*: Popular empirical strategies for policy evaluation in the panel data literature---including difference-in-differences (DID), synthetic control (SC) methods, and their variants---rely on key identifying assumptions that can be expressed through a specific choice of weights $\\omega$ relating pre-treatment trends to the counterfactual outcome. While each choice of $\\omega$ may be defensible in empirical contexts that motivate a particular method, it relies on fundamentally untestable and often fragile assumptions. I develop an identification framework that allows for all weights satisfying a _Synthetic Parallel Trends_ assumption: the treated unit's trend is parallel to a weighted combination of control units' trends for a general class of weights. The framework nests these existing methods as special cases and is by construction robust to violations of their respective assumptions. I construct a valid confidence set for the identified set of the treatment effect, which admits a linear programming representation with estimated coefficients and nuisance parameters that are profiled out. In simulations where the assumptions underlying DID or SC-based methods are violated, the proposed confidence set remains robust and attains nominal coverage, while existing methods suffer severe undercoverage.
@@ -52,6 +55,3 @@ I am interested in understanding how assumptions shape empirical conclusions and
 - **Using Forests in Multivariate Regression Discontinuity Designs** (2025), with [Alice Yuan Qi](https://econ.washington.edu/people/yuan-alice-qi) \
   [[`arXiv`](https://arxiv.org/abs/2303.11721)] | [[`code`](https://github.com/yqi3/RDForest)]
 
-
-## Work in Progress
-- **Partial Identification of Algorithmic Frontiers with Selective Labels**, with [Francesca Molinari](https://molinari.economics.cornell.edu/) and [Amilcar Velez](https://www.amilcarvelez.com/)
