@@ -7,46 +7,11 @@ classes: wide
 I am interested in understanding how assumptions shape empirical conclusions and developing statistical methods to inform better policy design.
 
 ## Working Papers
-- **Identification and Inference for Algorithmic Frontiers with Selective Labels**, with [Francesca Molinari](https://molinari.economics.cornell.edu/) and [Amilcar Velez](https://www.amilcarvelez.com/) \
+- **Identification and Inference for Algorithmic Frontiers with Selective Labels** (2026), with [Francesca Molinari](https://molinari.economics.cornell.edu/) and [Amilcar Velez](https://www.amilcarvelez.com/) \
   [[`arXiv`](https://arxiv.org/abs/2606.14977)] | [`code`]
   
-- **Synthetic Parallel Trends** (Job Market Paper)<br>
-    <div class="abstract" markdown="1">
-*Abstract*: Popular empirical strategies for policy evaluation in the panel data literature---including difference-in-differences (DID), synthetic control (SC) methods, and their variants---rely on key identifying assumptions that can be expressed through a specific choice of weights $\\omega$ relating pre-treatment trends to the counterfactual outcome. While each choice of $\\omega$ may be defensible in empirical contexts that motivate a particular method, it relies on fundamentally untestable and often fragile assumptions. I develop an identification framework that allows for all weights satisfying a _Synthetic Parallel Trends_ assumption: the treated unit's trend is parallel to a weighted combination of control units' trends for a general class of weights. The framework nests these existing methods as special cases and is by construction robust to violations of their respective assumptions. I construct a valid confidence set for the identified set of the treatment effect, which admits a linear programming representation with estimated coefficients and nuisance parameters that are profiled out. In simulations where the assumptions underlying DID or SC-based methods are violated, the proposed confidence set remains robust and attains nominal coverage, while existing methods suffer severe undercoverage.
-    </div>
-    
-    <p class="paper-links" markdown="1">
-       [[`latest draft`](https://drive.google.com/file/d/1MD1JSP1aNwMH1MtrSSLZH9HQFjY-bNlD/view?usp=sharing)] | [[`arXiv`](https://arxiv.org/abs/2511.05870)] | [[`code`](https://github.com/yiqi-liu/synPT)]
-    </p>
-
-<script>
-  MathJax = {
-    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
-    svg: { fontCache: 'global' }
-  };
-</script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
-</script>
-
-<style>
-.abstract {
-  font-size: 0.8em;
-  line-height: 1.2 !important;
-  margin-top: 0em;
-  margin-bottom: -0.8em;
-}
-
-.paper-links { 
-  font-size: 0.85em;
-  margin-top: -0.8em;
-  margin-bottom: -0.8em;
-}
-
-.abstract mjx-container {
-  line-height: inherit !important;
-}
-</style>
+- **Synthetic Parallel Trends** (2025) \
+  [[`arXiv`](https://arxiv.org/abs/2511.05870)] | [[`code`](https://github.com/yiqi-liu/synPT)]
 
 - **Inference for an Algorithmic Fairness-Accuracy Frontier** (2025), with [Francesca Molinari](https://molinari.economics.cornell.edu/)\
   <span style="font-size:0.8em;">Revise and resubmit at the *American Economic Review*</span> \
