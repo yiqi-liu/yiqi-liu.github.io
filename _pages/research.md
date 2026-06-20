@@ -4,7 +4,7 @@ toc: false
 classes: wide
 ---
 
-I am interested in understanding how assumptions shape empirical conclusions and developing statistical methods to inform better policy design.
+My research focuses on understanding how assumptions shape empirical conclusions and developing statistical methods to inform better policy design.
 
 ## Working Papers
 - **Identification and Inference for Algorithmic Frontiers with Selective Labels** (2026), with [Francesca Molinari](https://molinari.economics.cornell.edu/) and [Amilcar Velez](https://www.amilcarvelez.com/) \
