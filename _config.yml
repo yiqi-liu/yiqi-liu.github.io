@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiqi Liu"
+  name             : # "Yiqi Liu"
   avatar           : "/assets/images/profile-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "Ph.D. Candidate in Economics at Cornell University"
   location         : # "Ithaca, NY"
