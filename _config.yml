@@ -106,16 +106,16 @@ analytics:
 author:
   name             : # "Yiqi Liu"
   avatar           : "/assets/images/profile-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoc at Harvard CMSA"
+  bio              : "Postdoc @Harvard CMSA"
   location         : "Cambridge, MA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "yl3467@cornell.edu"
-    - label: "Department page"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://economics.cornell.edu/yiqi-liu"
+      url: "https://scholar.google.com/citations?user=pmuYGswAAAAJ&hl=en&oi=ao"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
